@@ -1,4 +1,4 @@
-# Service Level and-Coverage KPIs
+# Service Level and Coverage KPIs
 
 This code is meant for calculating both weekly and daily Service Level and Stock Coverage values based on inventory reports shared on a daily basis.
 
@@ -10,3 +10,5 @@ Whole process divided in 5 steps is listed below:
 5. Dataframes for daily tracking are united in one table and sent from Tuesday to Friday.
 
 In daily monitoring case, process that starts with non-delimited text files ends with such an e-mail.
+
+![E-mail screenshot](https://github.com/fedinb/Service-Level-and-Coverage-KPIs/blob/main/Daily%20KPI%20e-mail.png)
